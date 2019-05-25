@@ -6,7 +6,7 @@ _"An L-system or Lindenmayer system is a parallel rewriting system and a type of
 
 ### Examples
 
-The following examples are explained thoroughly in the Wikipedia article if you are interested. 
+\* The following examples are explained thoroughly in the Wikipedia article above
 
 __1) Algae growth Example__
 
