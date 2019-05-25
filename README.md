@@ -20,9 +20,8 @@ __1) Algae growth Example__
 	steps=7
 
 	string=grammar.generate(axiom, steps)
-	print(string)
 
-OUTPUT: ABAABABAABAABABAABABAABAABABAABAAB
+> OUTPUT: 'ABAABABAABAABABAABABAABAABABAABAAB'
 
 __2) Fractal Tree Example__
 	
@@ -36,6 +35,5 @@ __2) Fractal Tree Example__
 	steps=3
 
 	string=grammar.generate(axiom, steps)
-	print(string)
 
-OUTPUT: 1111[11[1[0]0]1[0]0]11[1[0]0]1[0]0
+> OUTPUT: '1111[11[1[0]0]1[0]0]11[1[0]0]1[0]0'
