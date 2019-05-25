@@ -8,7 +8,7 @@ _"An L-system or Lindenmayer system is a parallel rewriting system and a type of
 
 \* The following examples are explained thoroughly in the Wikipedia article above
 
-__1) Algae growth Example__
+__1) Algae Growth Example__
 
 	alphabet=['A', 'B']
 	constants=[]
